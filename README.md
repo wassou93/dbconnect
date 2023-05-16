@@ -1,3 +1,3 @@
-# bdconnect 
+# dbconnect 
 This is a test project done for learning purpose.
 
